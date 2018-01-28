@@ -1,4 +1,4 @@
-package com.xilidou.framework.ioc.utils;
+package com.zhangchi.framework.ioc.utils;
 
 /**
  * @description 通过className获取对象的class

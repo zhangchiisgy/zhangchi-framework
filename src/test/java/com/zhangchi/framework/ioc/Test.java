@@ -1,7 +1,7 @@
-package com.xilidou.framework.ioc;
+package com.zhangchi.framework.ioc;
 
-import com.xilidou.framework.ioc.core.JsonApplicationContext;
-import com.xilidou.framework.ioc.entity.Robot;
+import com.zhangchi.framework.ioc.core.JsonApplicationContext;
+import com.zhangchi.framework.ioc.entity.Robot;
 
 public class Test {
 

@@ -1,4 +1,4 @@
-package com.xilidou.framework.ioc.entity;
+package com.zhangchi.framework.ioc.entity;
 
 public class Robot {
 

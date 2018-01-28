@@ -1,4 +1,4 @@
-package com.xilidou.framework.ioc.core;
+package com.zhangchi.framework.ioc.core;
 
 public interface BeanFactory {
 

@@ -301,15 +301,15 @@ public class Robot {
 [
   {
     "name":"robot",
-    "className":"com.xilidou.framework.ioc.entity.Robot"
+    "className":"Robot"
   },
   {
     "name":"hand",
-    "className":"com.xilidou.framework.ioc.entity.Hand"
+    "className":"Hand"
   },
   {
     "name":"mouth",
-    "className":"com.xilidou.framework.ioc.entity.Mouth"
+    "className":"Mouth"
   }
 ]
 ```

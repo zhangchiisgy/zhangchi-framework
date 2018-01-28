@@ -1,10 +1,10 @@
-package com.xilidou.framework.ioc.core;
+package com.zhangchi.framework.ioc.core;
 
-import com.xilidou.framework.ioc.bean.BeanDefinition;
-import com.xilidou.framework.ioc.bean.ConstructorArg;
-import com.xilidou.framework.ioc.utils.BeanUtils;
-import com.xilidou.framework.ioc.utils.ClassUtils;
-import com.xilidou.framework.ioc.utils.ReflectionUtils;
+import com.zhangchi.framework.ioc.bean.BeanDefinition;
+import com.zhangchi.framework.ioc.bean.ConstructorArg;
+import com.zhangchi.framework.ioc.utils.BeanUtils;
+import com.zhangchi.framework.ioc.utils.ClassUtils;
+import com.zhangchi.framework.ioc.utils.ReflectionUtils;
 import org.apache.commons.lang3.StringUtils;
 
 import java.lang.reflect.Field;

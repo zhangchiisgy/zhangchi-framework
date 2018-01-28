@@ -1,4 +1,4 @@
-package com.xilidou.framework.ioc.utils;
+package com.zhangchi.framework.ioc.utils;
 
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.NoOp;

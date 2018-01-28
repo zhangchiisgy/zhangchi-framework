@@ -1,4 +1,4 @@
-package com.xilidou.framework.ioc.bean;
+package com.zhangchi.framework.ioc.bean;
 
 
 import lombok.Data;

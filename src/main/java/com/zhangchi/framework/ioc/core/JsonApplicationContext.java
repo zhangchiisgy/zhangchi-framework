@@ -1,7 +1,7 @@
-package com.xilidou.framework.ioc.core;
+package com.zhangchi.framework.ioc.core;
 
-import com.xilidou.framework.ioc.bean.BeanDefinition;
-import com.xilidou.framework.ioc.utils.JsonUtils;
+import com.zhangchi.framework.ioc.bean.BeanDefinition;
+import com.zhangchi.framework.ioc.utils.JsonUtils;
 import com.fasterxml.jackson.core.type.TypeReference;
 
 import java.io.InputStream;
