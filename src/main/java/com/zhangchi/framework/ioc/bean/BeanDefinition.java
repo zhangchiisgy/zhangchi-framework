@@ -5,23 +5,33 @@ import lombok.ToString;
 
 import java.util.List;
 
-
 /**
- * @author Zhengxin
- * @descrption 描述IOC框架需要管理的对象
+ * @author zhangchi
+ * @decription 描述bean的数据结构
  */
 @Data
 @ToString
 public class BeanDefinition {
-
+    /**
+     * bean的name
+     * */
     private String name;
-
+    /**
+     * 继承的class的Name
+     */
     private String className;
-
+    /**
+     * 实现的interface的Name
+     * */
     private String interfaceName;
 
-    private List<ConstructorArg> constructorArgs;
+    /**
+     * bean的构造参数列表
+     * */
+    private List<ConstructorArg> constructorArg;
 
+    /**
+     * bean的属性的列表
+     * */
     private List<PropertyArg> propertyArgs;
-
 }

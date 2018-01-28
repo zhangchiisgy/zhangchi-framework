@@ -1,6 +1,5 @@
 package com.zhangchi.framework.ioc.core;
 
-import com.zhangchi.framework.ioc.bean.BeanDefinition;
 import com.zhangchi.framework.ioc.utils.JsonUtils;
 import com.fasterxml.jackson.core.type.TypeReference;
 
